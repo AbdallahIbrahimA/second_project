@@ -1,5 +1,9 @@
 pandas
 numpy
 seaborn
+matplotlib
+scikit-learn
+catboost
+xgboost
 -e .
 # this will trigger the setup.py file when we run : pip install -r requirements.txt

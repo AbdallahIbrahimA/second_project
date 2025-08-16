@@ -1,5 +1,5 @@
 import sys
-import logging  
+from src.logger import logging  
 
 # just reformatting the exception handeler to display the error in custom way
 
