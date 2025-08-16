@@ -1,4 +1,5 @@
-# used to build our application as a package that could be reusable
+# used to build our application as a package that could be installed via pip 
+# (build script and configuration for your package)
 
 from setuptools import find_packages , setup
 from typing import List
