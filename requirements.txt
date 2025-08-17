@@ -6,5 +6,6 @@ scikit-learn
 catboost
 xgboost
 dill
+flask
 -e .
 # this will trigger the setup.py file when we run : pip install -r requirements.txt
